@@ -1,11 +1,11 @@
 #LearningNotes
-###git
+###1.git
 ```
-git push
 git pull
-```
-first 
+git add -A
+git commit -m "comments"
 git push
+``` 
 
-###iOS
-[iOS Learning Material](https://github.com/Aufree/trip-to-iOS)
+- [iOS Learning Material](https://github.com/Aufree/trip-to-iOS)
+- [3.what-happens-when](https://github.com/alex/what-happens-when)
