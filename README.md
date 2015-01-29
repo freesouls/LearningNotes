@@ -7,6 +7,10 @@
 Slate helps you create beautiful API documentation. Think of it as an intelligent, responsive documentation template for your API.
 - [other]()
 
+##Usefull Material:
+- [Latent SVM](http://docs.opencv.org/modules/objdetect/doc/latent_svm.html)
+an OpenCV implementation of Discriminatively Trained Part Based Models for Object Detection
+
 
 ##Simple Codes:
 ####git
