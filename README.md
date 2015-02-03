@@ -9,6 +9,8 @@ Slate helps you create beautiful API documentation. Think of it as an intelligen
 - [Latent SVM](http://docs.opencv.org/modules/objdetect/doc/latent_svm.html):
 an OpenCV implementation of Discriminatively Trained Part Based Models for Object Detection
 - [doppia](https://bitbucket.org/rodrigob/doppia)
+- [MLPNeuralNet](https://github.com/nikolaypavlov/MLPNeuralNet):
+Fast multilayer perceptron neural network library for iOS and Mac OS X
 - [other]()
 
 ##Simple Notes:
